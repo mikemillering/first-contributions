@@ -23,6 +23,7 @@
 - [Alec Mills] (https://github.com/OxSon)
 - [David Perez](https://github.com/davidpv)
 - [Geoffrey Van Meirhaeghe] (https://github.com/chetmayor)
+- [Michael Miller] (https://github.com/mikemillering)
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Kevin Nguyen](https://github.com/ktrieun)
 - [Andrew Park](https://github.com/AndrewPark9517)
